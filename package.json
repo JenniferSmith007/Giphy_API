@@ -1,0 +1,22 @@
+{
+  "name": "searchpic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0"
+  },
+  "browserslist": [
+    "last 1 chrome version"
+  ]
+}
